@@ -1,4 +1,4 @@
 # ethantstn12223
 
-## Error
-Modify known_host, modify the line
+### er
+If pb with key: modify ~/.ssh/known_hosts
