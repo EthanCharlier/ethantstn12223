@@ -1,6 +1,7 @@
 # ethantstn12223
 
-If pb with key: <br> ```~/.ssh/known_hosts```
+If pb with key: <br>
+```~/.ssh/known_hosts```
 
 If `! [rejected]` main -> main (non-fast-forward): <br>
 ```git fetch origin main:tmp <br>
