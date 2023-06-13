@@ -5,7 +5,7 @@ If pb with key: <br>
 ~/.ssh/known_hosts
 ```
 
-If `! [rejected]` main -> main (non-fast-forward): <br>
+If `! [rejected] main -> main (non-fast-forward)`: <br>
 ```
 git fetch origin main:tmp <br>
 git rebase tmp <br>
