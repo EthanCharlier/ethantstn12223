@@ -1,9 +1,9 @@
 # ethantstn12223
 
-If pb with key: `~/.ssh/known_hosts`.
+If pb with key: <br> ```~/.ssh/known_hosts```
 
 If `! [rejected]` main -> main (non-fast-forward): <br>
-```git fetch origin master:tmp <br>
-git rebase tmp
-git push origin HEAD:master
+```git fetch origin main:tmp <br>
+git rebase tmp <br>
+git push origin HEAD:main <br>
 git branch -D tmp```
